@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyTaskManager</string>
+
+    <string name="rv_wait_title">В ожидании</string>
+    <string name="rv_progress_title">В процессе</string>
+    <string name="rv_done_title">Выполненные</string>
+
+    <string name="activity_edit_status_title">Выберите статус</string>
+    <string name="activity_edit_priority_title">Выберите приоритет</string>
+    <string name="activity_edit_new_task_title">Создание задачи</string>
+    <string name="activity_edit_edit_task_title">Редактирование задачи</string>
+    <string name="activity_edit_history_title">История изменения задачи</string>
+    <string name="activity_edit_history_message">%1$tm:%1$td:%1$tY %1$tH:%1$tM: %2$s \n</string>
+
+    <string name="edit_title_hint">Введите наименование задачи</string>
+    <string name="edit_description_hint">Введите описание задачи</string>
+
+    <string-array name="status">
+        <item>В ожидании</item>
+        <item>В процессе</item>
+        <item>Выполнен</item>
+        <item>Завершен</item>
+    </string-array>
+
+    <string-array name="priority">
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+    </string-array>
+</resources>
